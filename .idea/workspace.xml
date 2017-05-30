@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1858f7e2-9d01-4b3c-84a5-957ff18f04b8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -182,12 +181,20 @@
       <option name="presentableId" value="Default" />
       <updated>1496113448448</updated>
       <workItem from="1496113449750" duration="1647000" />
-      <workItem from="1496115103412" duration="123000" />
+      <workItem from="1496115103412" duration="203000" />
     </task>
+    <task id="LOCAL-00001" summary="update setup files">
+      <created>1496115283046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496115283046</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1770000" />
+    <option name="totallyTimeSpent" value="1850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,6 +266,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/danbranstrator" />
     </ignored-roots>
+    <MESSAGE value="update setup files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update setup files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
